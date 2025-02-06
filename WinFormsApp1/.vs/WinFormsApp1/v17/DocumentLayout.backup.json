@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|c:\\users\\admin\\source\\repos\\winformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E7422D-A47F-4BB3-929E-9F392A34AC67}|WinFormsApp1.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\dashboard.cs",
+              "RelativeToolTip": "dashboard.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:39:57.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAhwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:09:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAArwEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:52:50.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Food.cs",
+              "RelativeToolTip": "Food.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwEUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:43:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwHoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:47:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Payment.cs",
+              "RelativeToolTip": "Payment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:10:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\register.cs",
+              "RelativeDocumentMoniker": "register.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\register.cs",
+              "RelativeToolTip": "register.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:20:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:55:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\dashboard.cs [Design]",
+              "RelativeToolTip": "dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:33:48.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Payment.cs [Design]",
+              "RelativeToolTip": "Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:49:57.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:10:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Order.cs [Design]",
+              "RelativeToolTip": "Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:38:31.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:14:21.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:40:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Food.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\Food.cs [Design]",
+              "RelativeToolTip": "Food.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:40:40.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\register.cs",
+              "RelativeDocumentMoniker": "register.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WinFormsApp1\\register.cs [Design]",
+              "RelativeToolTip": "register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:08:28.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
